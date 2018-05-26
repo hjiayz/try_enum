@@ -3,4 +3,7 @@ name = "try_enum"
 version = "0.1.0"
 authors = ["hjiayz <hjiayz@hotmail.com>"]
 repository = "https://github.com/hjiayz/try_enum"
+description = "match enum"
+license = "GPLv3"
+keywords = ["enum","match"]
 [dependencies]
