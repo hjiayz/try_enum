@@ -1,5 +1,5 @@
-##this is macro try_enum!
-##e.g.:
+##this is macro try_enum!##
+##e.g.:##
 =======================
 ```rust
 #[derive(Eq,PartialEq)]
